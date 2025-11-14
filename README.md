@@ -16,7 +16,7 @@ Getting started
    git clone https://github.com/yeghor/Learning-Machine-Learning.git
    cd Learning-Machine-Learning
    ```
-2. Create and activate a virtual environment:
+2. Create and activate a virtual enviroment:
    ```bash
    python -m venv .venv
 
@@ -32,3 +32,4 @@ Getting started
    ```
    jupyter notebook
    ```
+7. Access .ipynb notebooks files in your IDE or [locally](http://localhost:8888/tree)
