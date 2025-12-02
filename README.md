@@ -32,4 +32,4 @@ Getting started
    ```
    jupyter notebook
    ```
-7. Access .ipynb notebooks files in your IDE or [locally](http://localhost:8888/tree)
+7. Access .ipynb notebooks files in your IDE or [locally](http://localhost:8888/tree) or open file directly on GitHub
