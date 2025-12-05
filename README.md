@@ -1,8 +1,9 @@
 # Learning Machine Learning
 My ML/Deep Learning journey based on _“Hands On Machine Learning”_ book.
 
-This repository contains my Jupyter notebook notes including all source datasets. Feel free to explore, modify, learn.
+This repository contains my **Jupyter notebook** notes including all source datasets. Feel free to explore, modify, learn.
 
+To view my notes, navigate to `jupyter_notes/` directory.
 
 > Datasets taken from “Hands-On Machine Learning” by Aurélien Géron. Used for educational purposes.
 >
@@ -16,11 +17,11 @@ Getting started
    git clone https://github.com/yeghor/Learning-Machine-Learning.git
    cd Learning-Machine-Learning
    ```
-2. Create and activate a virtual enviroment:
+2. Create and activate a virtual environment:
    ```bash
    python -m venv .venv
 
-   # Activate enviroment, choose suitable for you
+   # Activate environment, choose suitable for you
    source .venv/bin/activate  # macOS / Linux
    .venv\Scripts\activate.bat     # Windows
    ```
@@ -32,4 +33,4 @@ Getting started
    ```
    jupyter notebook
    ```
-7. Access .ipynb notebooks files in your IDE or [locally](http://localhost:8888/tree) or open file directly on GitHub
+7. Access .ipynb notebooks files in your IDE [locally](http://localhost:8888/tree) or open jupyter notebooks directly on GitHub.
