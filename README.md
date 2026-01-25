@@ -3,7 +3,9 @@ My ML/Deep Learning journey based on _“Hands On Machine Learning”_ book.
 
 This repository contains my **Jupyter notebook** notes including all source datasets. Feel free to explore, modify, learn.
 
-To view my notes, navigate to `jupyter_notes/` directory.
+In the repository, in general, you will find code examples without detailed explanations. My most detailed notes are stored in my **[Obsidian](https://obsidian.md/)** vault, soon I'll publish them.
+
+To view my jupyter notes, navigate to `jupyter_notes/` directory.
 
 > Datasets taken from “Hands-On Machine Learning” by Aurélien Géron. Used for educational purposes.
 >
@@ -25,12 +27,12 @@ Getting started
    source .venv/bin/activate  # macOS / Linux
    .venv\Scripts\activate.bat     # Windows
    ```
-4. Install dependencies:
+3. Install dependencies:
    ```
    pip install -r requirements.txt
    ```
-6. Start Jupyter:
+4. Start Jupyter to view notes in your browser:
    ```
    jupyter notebook
    ```
-7. Access .ipynb notebooks files in your IDE [locally](http://localhost:8888/tree) or open jupyter notebooks directly on GitHub.
+5. Access .ipynb notebooks files in your IDE [locally](http://localhost:8888/tree) or open jupyter notebooks directly on GitHub.
