@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 .idea/
 *.mmap
+export-example/
+example/
