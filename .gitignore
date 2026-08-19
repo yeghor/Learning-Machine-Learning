@@ -3,3 +3,5 @@
 *.mmap
 export-example/
 example/
+my_logs/
+my_fashion_mnist/
