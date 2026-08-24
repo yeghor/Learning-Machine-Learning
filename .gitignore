@@ -1,7 +1,10 @@
 .ipynb_checkpoints/
 .idea/
 *.mmap
+*.keras
+*weights.h5
 export-example/
 example/
 my_logs/
 my_fashion_mnist/
+mnist_tensorboard/
